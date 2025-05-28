@@ -1,0 +1,62 @@
+{
+  "2412.02653v1": {
+    "title": "Scaffold or Crutch? Examining College Students' Use and Views of Generative AI Tools for STEM Education",
+    "authors": [
+      "Karen D. Wang",
+      "Zhangyang Wu",
+      "L'Nard Tufts II",
+      "Carl Wieman",
+      "Shima Salehi",
+      "Nick Haber"
+    ],
+    "summary": "Developing problem-solving competency is central to Science, Technology,\nEngineering, and Mathematics (STEM) education, yet translating this priority\ninto effective approaches to problem-solving instruction and assessment remain\na significant challenge. The recent proliferation of generative artificial\nintelligence (genAI) tools like ChatGPT in higher education introduces new\nconsiderations about how these tools can help or hinder students' development\nof STEM problem-solving competency. Our research examines these considerations\nby studying how and why college students use genAI tools in their STEM\ncoursework, focusing on their problem-solving support. We surveyed 40 STEM\ncollege students from diverse U.S. institutions and 28 STEM faculty to\nunderstand instructor perspectives on effective genAI tool use and guidance in\nSTEM courses. Our findings reveal high adoption rates and diverse applications\nof genAI tools among STEM students. The most common use cases include finding\nexplanations, exploring related topics, summarizing readings, and helping with\nproblem-set questions. The primary motivation for using genAI tools was to save\ntime. Moreover, over half of student participants reported simply inputting\nproblems for AI to generate solutions, potentially bypassing their own\nproblem-solving processes. These findings indicate that despite high adoption\nrates, students' current approaches to utilizing genAI tools often fall short\nin enhancing their own STEM problem-solving competencies. The study also\nexplored students' and STEM instructors' perceptions of the benefits and risks\nassociated with using genAI tools in STEM education. Our findings provide\ninsights into how to guide students on appropriate genAI use in STEM courses\nand how to design genAI-based tools to foster students' problem-solving\ncompetency.",
+    "pdf_url": "http://arxiv.org/pdf/2412.02653v1",
+    "published": "2024-12-03"
+  },
+  "2409.06721v1": {
+    "title": "Students' Perceived Roles, Opportunities, and Challenges of a Generative AI-powered Teachable Agent: A Case of Middle School Math Class",
+    "authors": [
+      "Yukyeong Song",
+      "Jinhee Kim",
+      "Zifeng Liu",
+      "Chenglu Li",
+      "Wanli Xing"
+    ],
+    "summary": "Ongoing advancements in Generative AI (GenAI) have boosted the potential of\napplying long-standing learning-by-teaching practices in the form of a\nteachable agent (TA). Despite the recognized roles and opportunities of TAs,\nless is known about how GenAI could create synergy or introduce challenges in\nTAs and how students perceived the application of GenAI in TAs. This study\nexplored middle school students perceived roles, benefits, and challenges of\nGenAI-powered TAs in an authentic mathematics classroom. Through classroom\nobservation, focus-group interviews, and open-ended surveys of 108 sixth-grade\nstudents, we found that students expected the GenAI-powered TA to serve as a\nlearning companion, facilitator, and collaborative problem-solver. Students\nalso expressed the benefits and challenges of GenAI-powered TAs. This study\nprovides implications for the design of educational AI and AI-assisted\ninstruction.",
+    "pdf_url": "http://arxiv.org/pdf/2409.06721v1",
+    "published": "2024-08-26"
+  },
+  "2409.06723v1": {
+    "title": "Elementary School Students' and Teachers' Perceptions Towards Creative Mathematical Writing with Generative AI",
+    "authors": [
+      "Yukyeong Song",
+      "Jinhee Kim",
+      "Wanli Xing",
+      "Zifeng Liu",
+      "Chenglu Li",
+      "Hyunju Oh"
+    ],
+    "summary": "While mathematical creative writing can potentially engage students in\nexpressing mathematical ideas in an imaginative way, some elementary school-age\nstudents struggle in this process. Generative AI (GenAI) offers possibilities\nfor supporting creative writing activities, such as providing story generation.\nHowever, the design of GenAI-powered learning technologies requires careful\nconsideration of the technology reception in the actual classrooms. This study\nexplores students' and teachers' perceptions of creative mathematical writing\nwith the developed GenAI-powered technology. The study adopted a qualitative\nthematic analysis of the interviews, triangulated with open-ended survey\nresponses and classroom observation of 79 elementary school students, resulting\nin six themes and 19 subthemes. This study contributes by investigating the\nlived experience of GenAI-supported learning and the design considerations for\nGenAI-powered learning technologies and instructions.",
+    "pdf_url": "http://arxiv.org/pdf/2409.06723v1",
+    "published": "2024-08-26"
+  },
+  "2407.18965v1": {
+    "title": "Generative AI Augmented Induction-based Formal Verification",
+    "authors": [
+      "Aman Kumar",
+      "Deepak Narayan Gadde"
+    ],
+    "summary": "Generative Artificial Intelligence (GenAI) has demonstrated its capabilities\nin the present world that reduce human effort significantly. It utilizes deep\nlearning techniques to create original and realistic content in terms of text,\nimages, code, music, and video. Researchers have also shown the capabilities of\nmodern Large Language Models (LLMs) used by GenAI models that can be used to\naid hardware development. Formal verification is a mathematical-based proof\nmethod used to exhaustively verify the correctness of a design. In this paper,\nwe demonstrate how GenAI can be used in induction-based formal verification to\nincrease the verification throughput.",
+    "pdf_url": "http://arxiv.org/pdf/2407.18965v1",
+    "published": "2024-07-18"
+  },
+  "2502.12445v1": {
+    "title": "Computational Safety for Generative AI: A Signal Processing Perspective",
+    "authors": [
+      "Pin-Yu Chen"
+    ],
+    "summary": "AI safety is a rapidly growing area of research that seeks to prevent the\nharm and misuse of frontier AI technology, particularly with respect to\ngenerative AI (GenAI) tools that are capable of creating realistic and\nhigh-quality content through text prompts. Examples of such tools include large\nlanguage models (LLMs) and text-to-image (T2I) diffusion models. As the\nperformance of various leading GenAI models approaches saturation due to\nsimilar training data sources and neural network architecture designs, the\ndevelopment of reliable safety guardrails has become a key differentiator for\nresponsibility and sustainability. This paper presents a formalization of the\nconcept of computational safety, which is a mathematical framework that enables\nthe quantitative assessment, formulation, and study of safety challenges in\nGenAI through the lens of signal processing theory and methods. In particular,\nwe explore two exemplary categories of computational safety challenges in GenAI\nthat can be formulated as hypothesis testing problems. For the safety of model\ninput, we show how sensitivity analysis and loss landscape analysis can be used\nto detect malicious prompts with jailbreak attempts. For the safety of model\noutput, we elucidate how statistical signal processing and adversarial learning\ncan be used to detect AI-generated content. Finally, we discuss key open\nresearch challenges, opportunities, and the essential role of signal processing\nin computational AI safety.",
+    "pdf_url": "http://arxiv.org/pdf/2502.12445v1",
+    "published": "2025-02-18"
+  }
+}
