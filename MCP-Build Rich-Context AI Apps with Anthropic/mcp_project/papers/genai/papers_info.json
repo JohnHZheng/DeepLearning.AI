@@ -1,0 +1,52 @@
+{
+  "2404.17822v1": {
+    "title": "GenAI Distortion: The Effect of GenAI Fluency and Positive Affect",
+    "authors": [
+      "Xiantong Yang",
+      "Mengmeng Zhang"
+    ],
+    "summary": "The introduction of generative artificial intelligence (GenAI) into\neducational practices has been transformative, yet it brings a crucial concern\nabout the potential distortion of users' beliefs. Given the prevalence of GenAI\namong college students, examining the psychological mechanisms that lead to\nGenAI distortion from both technological factors and the individual's\npsychological processes is a critical priority. A mixed-methods approach is\nemployed to test the proposed hypotheses. Study 1 (N = 10) revealed through\nqualitative analysis that GenAI's fluent outputs significantly engaged college\nstudents, eliciting positive emotional responses during an interaction. GenAI's\ntendency to conflate fact with fiction often led to presentations of\nunrealistic and exaggerated information, potentially distorting users'\nperceptions of reality-a phenomenon termed GenAI distortion. Following these\ninsights, Study 2 (cross-sectional survey, N = 999) and Study 3 (experimental\nmanipulation, N = 175) explored how GenAI fluency affects college students'\nGenAI distortion and examined the mediating effect of positive affect. The\nresults indicated that GenAI fluency predicts GenAI distortion via the\nmediating role of positive affect. Our findings provide theoretical foundations\nand practical implications for understanding GenAI distortion among college\nstudents.",
+    "pdf_url": "http://arxiv.org/pdf/2404.17822v1",
+    "published": "2024-04-27"
+  },
+  "2504.06435v1": {
+    "title": "Human Trust in AI Search: A Large-Scale Experiment",
+    "authors": [
+      "Haiwen Li",
+      "Sinan Aral"
+    ],
+    "summary": "Large Language Models (LLMs) increasingly power generative search engines\nwhich, in turn, drive human information seeking and decision making at scale.\nThe extent to which humans trust generative artificial intelligence (GenAI) can\ntherefore influence what we buy, how we vote and our health. Unfortunately, no\nwork establishes the causal effect of generative search designs on human trust.\nHere we execute ~12,000 search queries across seven countries, generating\n~80,000 real-time GenAI and traditional search results, to understand the\nextent of current global exposure to GenAI search. We then use a preregistered,\nrandomized experiment on a large study sample representative of the U.S.\npopulation to show that while participants trust GenAI search less than\ntraditional search on average, reference links and citations significantly\nincrease trust in GenAI, even when those links and citations are incorrect or\nhallucinated. Uncertainty highlighting, which reveals GenAI's confidence in its\nown conclusions, makes us less willing to trust and share generative\ninformation whether that confidence is high or low. Positive social feedback\nincreases trust in GenAI while negative feedback reduces trust. These results\nimply that GenAI designs can increase trust in inaccurate and hallucinated\ninformation and reduce trust when GenAI's certainty is made explicit. Trust in\nGenAI varies by topic and with users' demographics, education, industry\nemployment and GenAI experience, revealing which sub-populations are most\nvulnerable to GenAI misrepresentations. Trust, in turn, predicts behavior, as\nthose who trust GenAI more click more and spend less time evaluating GenAI\nsearch results. These findings suggest directions for GenAI design to safely\nand productively address the AI \"trust gap.\"",
+    "pdf_url": "http://arxiv.org/pdf/2504.06435v1",
+    "published": "2025-04-08"
+  },
+  "2410.03018v1": {
+    "title": "Transforming Teachers' Roles and Agencies in the Era of Generative AI: Perceptions, Acceptance, Knowledge, and Practices",
+    "authors": [
+      "Xiaoming Zhai"
+    ],
+    "summary": "This paper explores the transformative impact of Generative Artificial\nIntelligence (GenAI) on teachers' roles and agencies in education, presenting a\ncomprehensive framework that addresses teachers' perceptions, knowledge,\nacceptance, and practices of GenAI. As GenAI technologies, such as ChatGPT,\nbecome increasingly integrated into educational settings, teachers are required\nto adapt to evolving classroom dynamics, where AI plays a significant role in\ncontent creation, personalized learning, and student engagement. However,\nexisting literature often treats these factors in isolation, overlooking how\nthey collectively influence teachers' ability to effectively integrate GenAI\ninto their pedagogical practices. This paper fills this gap by proposing a\nframework that categorizes teachers into four roles -- Observer, Adopter,\nCollaborator, and Innovator -- each representing different levels of GenAI\nengagement, outlining teachers' agencies in GenAI classrooms. By highlighting\nthe need for continuous professional development and institutional support, we\ndemonstrate how teachers can evolve from basic GenAI users to co-creators of\nknowledge alongside GenAI systems. The findings emphasize that for GenAI to\nreach its full educational potential, teachers must not only accept and\nunderstand its capabilities but also integrate it deeply into their teaching\nstrategies. This study contributes to the growing literature on GenAI in\neducation, offering practical implications for supporting teachers in\nnavigating the complexities of GenAI adoption.",
+    "pdf_url": "http://arxiv.org/pdf/2410.03018v1",
+    "published": "2024-10-03"
+  },
+  "2409.05506v1": {
+    "title": "Braess's Paradox of Generative AI",
+    "authors": [
+      "Boaz Taitler",
+      "Omer Ben-Porat"
+    ],
+    "summary": "ChatGPT has established Generative AI (GenAI) as a significant technological\nadvancement. However, GenAI's intricate relationship with competing platforms\nand its downstream impact on users remains under-explored. This paper initiates\nthe study of GenAI's long-term social impact resulting from the weakening\nnetwork effect of human-based platforms like Stack Overflow. First, we study\nGenAI's revenue-maximization optimization problem. We develop an approximately\noptimal solution and show that the optimal solution has a non-cyclic structure.\nThen, we analyze the social impact, showing that GenAI could be socially\nharmful. Specifically, we present an analog to Braess's paradox in which all\nusers would be better off without GenAI. Finally, we develop necessary and\nsufficient conditions for a regulator with incomplete information to ensure\nthat GenAI is socially beneficial.",
+    "pdf_url": "http://arxiv.org/pdf/2409.05506v1",
+    "published": "2024-09-09"
+  },
+  "2503.04696v1": {
+    "title": "Assessing Student Adoption of Generative Artificial Intelligence across Engineering Education from 2023 to 2024",
+    "authors": [
+      "Jesan Ahammed Ovi",
+      "Gabe Fierro",
+      "C. Estelle Smith"
+    ],
+    "summary": "Generative Artificial Intelligence (GenAI) tools and models have the\npotential to re-shape educational needs, norms, practices, and policies in all\nsectors of engineering education. Empirical data, rather than anecdata and\nassumptions, on how engineering students have adopted GenAI is essential to\ndeveloping a foundational understanding of students' GenAI-related behaviors\nand needs during academic training. This data will also help formulate\neffective responses to GenAI by both academic institutions and industrial\nemployers. We collected two representative survey samples at the Colorado\nSchool of Mines, a small engineering-focused R-1 university in the USA, in May\n2023 ($n_1=601$) and September 2024 ($n_2=862$) to address research questions\nrelated to (RQ1) how GenAI has been adopted by engineering students, including\nmotivational and demographic factors contributing to GenAI use, (RQ2) students'\nethical concerns about GenAI, and (RQ3) students' perceived benefits v.s. harms\nfor themselves, science, and society. Analysis revealed a statistically\nsignificant rise in GenAI adoption rates from 2023 to 2024. Students\npredominantly leverage GenAI tools to deepen understanding, enhance work\nquality, and stay informed about emerging technologies. Although most students\nassess their own usage of GenAI as ethical and beneficial, they nonetheless\nexpressed significant concerns regarding GenAI and its impacts on society. We\ncollected student estimates of ``P(doom)'' and discovered a bimodal\ndistribution. Thus, we show that the student body at Mines is polarized with\nrespect to future impacts of GenAI on the engineering workforce and society,\ndespite being increasingly willing to explore GenAI over time. We discuss\nimplications of these findings for future research and for integrating GenAI in\nengineering education.",
+    "pdf_url": "http://arxiv.org/pdf/2503.04696v1",
+    "published": "2025-03-06"
+  }
+}
